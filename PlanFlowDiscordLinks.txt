@@ -1,0 +1,4 @@
+{
+	"en": "https://discord.gg/CUxT5MNRNK",
+	"zh": "https://discord.gg/2S38SzadGv"
+}
